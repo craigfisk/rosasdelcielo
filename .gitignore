@@ -1,0 +1,9 @@
+*~
+*.swp
+*.log
+node_modules/
+assets/
+images/
+*.txt
+*.json
+
